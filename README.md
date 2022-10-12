@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Red Anton
+## 👋  Hi, I’m Red Anton
 
 I am a developer based in the Philippines. I love learning about different technologies. I mainly work on Java and Javascript tech. I also love collaborating and working on cool ideas!
 
