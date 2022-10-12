@@ -20,7 +20,6 @@ I am a developer based in the Philippines. I love learning about different techn
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apache-kafka)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-black?style=flat&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
