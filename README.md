@@ -23,6 +23,7 @@ I am a developer based in the Philippines. I love learning about different techn
 ![React Native](https://img.shields.io/badge/React%20Native-black?style=flat&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
