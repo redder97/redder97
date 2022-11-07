@@ -31,7 +31,6 @@ I am a developer based in the Philippines. I love learning about different techn
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat&logo=graphql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2fCD-black?style=flat&logo=gitlab)
